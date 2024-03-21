@@ -1,7 +1,9 @@
 ---
 title: "精通Excel统计数据与分析"
-format: html
-theme:  flatly
+format:
+  html:
+    theme: lumen
+    toc: true
 editor: visual
 ---
 
