@@ -1,56 +1,155 @@
 ---
 title: "精通Excel统计数据与分析"
-format:
-  revealjs: 
-    theme: [solarized, custom.scss]
+format: html
+theme: journal
 editor: visual
 ---
-<style>
-#navbar {
-  /* book.css */
-}
-#navbar a {
-  /* book.css */
-}
-#navbar a:hover {
-  /* book.css */
-}
-</style>
 
-<div id="navbar">
-  <a href="https://www.example.com">主页</a>
-  <a href="https://www.anotherexample.com">关于</a>
-  <a href="https://www.yetanotherexample.com">联系我们</a>
-</div>
+# 例题习题数据
 
-# 欢迎来到我的演示
+[点击下载]()
 
-这里是正文内容。
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
-## chap 1
+# 第1章 统计分析与Excel概览
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://lizongzhang.github/excel/slide.html>.
+[讲义]()
 
-## chap 2
+[习题1.1讲评视频]()
 
-<https://lizongzhang.github/excel/slide1.html>
+[习题1.2讲评视频]()
 
-When you click the **Render** button a document will be generated that includes:
+# 第2章 定性数据的图表展示
 
--   Content authored with markdown
--   Output from executable code
+[讲义]()
 
-## Code
+[习题1.1讲评视频]()
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+[习题1.2讲评视频]()
 
-```{r}
-1 + 1
-```
+# 第3章 定量数据的图表展示
+
+[讲义]()
+
+[习题1.1讲评视频]()
+
+[习题1.2讲评视频]()
+
+第4章 二维数据的图表展示
+
+[讲义]()
+
+[习题1.1讲评视频]()
+
+[习题1.2讲评视频]()
+
+# 第4章 二维数据的图表展示
+
+[讲义]()
+
+[习题1.1讲评视频]()
+
+[习题1.2讲评视频]()
+
+# 第5章 描述性统计量的计算
+
+[讲义]()
+
+[习题1.1讲评视频]()
+
+[习题1.2讲评视频]()
+
+# 第6章 离散型随机变量的分布
+
+[讲义]()
+
+[习题1.1讲评视频]()
+
+[习题1.2讲评视频]()
+
+# 第7章 连续型随机变量的分布
+
+[讲义]()
+
+[习题1.1讲评视频]()
+
+[习题1.2讲评视频]()
+
+# 第8章 抽样分布
+
+[讲义]()
+
+[习题1.1讲评视频]()
+
+[习题1.2讲评视频]()
+
+# 第9章 参数估计
+
+[讲义]()
+
+[习题1.1讲评视频]()
+
+[习题1.2讲评视频]()
+
+# 第10章 假设检验
+
+[讲义]()
+
+[习题1.1讲评视频]()
+
+[习题1.2讲评视频]()
+
+# 第11章 两个总体参数的检验
+
+[讲义]()
+
+[习题1.1讲评视频]()
+
+[习题1.2讲评视频]()
+
+# 第12章 多个总体参数的检验
+
+[讲义]()
+
+[习题1.1讲评视频]()
+
+[习题1.2讲评视频]()
+
+# 第13章 非参数检验
+
+[讲义]()
+
+[习题1.1讲评视频]()
+
+[习题1.2讲评视频]()
+
+# 第14章 相关分析
+
+[讲义]()
+
+[习题1.1讲评视频]()
+
+[习题1.2讲评视频]()
+
+# 第15章 回归分析
+
+[讲义]()
+
+[习题1.1讲评视频]()
+
+[习题1.2讲评视频]()
+
+# 第16章 时间序列分析
+
+[讲义]()
+
+[习题1.1讲评视频]()
+
+[习题1.2讲评视频]()
 
 
-```{r}
-hist(mtcars$mpg, col = "cyan")
-```
+
+
+
 
 
