@@ -1,8 +1,31 @@
 ---
 title: "精通Excel统计数据与分析"
-format: revealjs
+format:
+  revealjs: 
+    theme: [solarized, custom.scss]
 editor: visual
 ---
+<style>
+#navbar {
+  /* book.css */
+}
+#navbar a {
+  /* book.css */
+}
+#navbar a:hover {
+  /* book.css */
+}
+</style>
+
+<div id="navbar">
+  <a href="https://www.example.com">主页</a>
+  <a href="https://www.anotherexample.com">关于</a>
+  <a href="https://www.yetanotherexample.com">联系我们</a>
+</div>
+
+# 欢迎来到我的演示
+
+这里是正文内容。
 
 ## chap 1
 
